@@ -26,25 +26,10 @@ group: contact
   [Department](link)<br>
   email: name at com<br>
   tel: 1234 345 789<br>
-<!--   <h4>Ying Wang, Ph.D.</h4>
-  Assistant Professor<br>
-  [Department of Pharmacology](https://med.sustech.edu.cn/about/yxsz/id/44.html?lang=zh-cn)<br>
-  [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
-  South University of Science and Technology 
-  Shenzhen, Zip Code xxx <br>
-  email: xxxx (at) xxxx.edu.cn <br>
-  tel: 123 456 789 -->
+  
 </div>
 
-<div class="col-md-4 col-ms-4">
 
-  <h4> Name</h4>
-  Position<br>
-  [Department](link)<br>
-  email: name at com<br>
-  tel: 1234 345 789<br>
-
-</div>
 
 </div>
 
