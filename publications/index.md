@@ -12,8 +12,6 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 
 --
 
-# Pore-forming proteins
-
 1. Xiulian Yu, Tao Ni, George Munson, Peijun Zhang, Robert J. C. Gilbert Structures of perforin-2 in solution and on a membrane reveal mechanisms for pore formation BioRxiv doi: https://doi.org/10.1101/2022.06.14.496043 
 
 1. Williams SI\*, Yu X\*, **Ni T**, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. _**J Mol Biol**_. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
@@ -23,8 +21,6 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 1. **Ni T\***, Zhu Y\*, Yang Z\*, Xu C, Chaban Y, Nesterova T, Ning J, Böcking T, Parker MW, Monnie C, Ahn J, Perilla JR, Zhang P. Structure of native HIV-1 cores and their interactions with IP6 and CypA. _**Sci Adv**_. 2021 Nov 19;7(47):eabj5715. doi: 10.1126/sciadv.abj5715. Epub 2021 Nov 19. PMID: 34797722; PMCID: PMC8604400.  
 
 1. **Ni T\***, Frosio T\*, Mendonça L\*, Sheng Y, Clare D, Himes BA, Zhang P. High-resolution in situ structure determination by cryo-electron tomography and subtomogram averaging using emClarity. _**Nat Protoc**_. 2022 Feb;17(2):421-444. doi: 10.1038/s41596-021-00648-5. Epub 2022 Jan 12. PMID: 35022621.
-
-# HIV
 
 1. Mendonça L, Howe A, Gilchrist JB, Sheng Y, Sun D, Knight ML, Zanetti-Domingues LC, Bateman B, Krebs AS, Chen L, Radecke J, Li VD, **Ni T**, Kounatidis I, Koronfel MA, Szynkiewicz M, Harkiolaki M, Martin-Fernandez ML, James W, Zhang P. Correlative multi-scale cryo-imaging unveils SARS-CoV-2 assembly and egress. _**Nat Commun**_. 2021 Jul 30;12(1):4629. doi: 0.1038/s41467-021-24887-y. PMID: 34330917; PMCID: PMC8324836.
 
