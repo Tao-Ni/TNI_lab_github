@@ -9,15 +9,15 @@ group: home
 # Welcome to the Ni Lab
 {: .display-4}
 
-We are a cryoEM/ET group focusing on macromolecular assemblies and host-pathogen interfaces using an integrative structural biology approach including x-ray crystallography, cryoEM, cryoCLEM, cryoFIB milling and cryoET subtomogram averaging...
+We are a cryoEM/ET group focusing on macromolecular assemblies and host-pathogen interfaces using an integrative structural biology approach including x-ray crystallography, cryoEM, cryoCLEM, cryoFIB milling and cryoET subtomogram averaging. 
 {: .welcomefont}
 
 
 
-Research in the lab is focused on...
+Research in the lab is focused on membrane-remodelling complexes in virus replication cycle and pore-forming proteins.
 {: .welcomefont}
 
-We are located in xxx the building of Hong Kong, China
+We are located in LKS Faculty of Medicine in the University of Hong Kong, China
 {: .welcomefont}
 ---
 
