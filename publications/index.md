@@ -45,6 +45,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 1. **Ni T**, Harlos K, Gilbert R. Structure of astrotactin-2: a conserved vertebrate-specific and perforin-like membrane protein involved in neuronal development. _**Open Biol**_. 2016 May;6(5):160053. doi: 10.1098/rsob.160053. Epub 2016 May 4. PMID: 27249642; PMCID: PMC4892435.
 
 1. Yu ZQ, **Ni T**, Hong B, Wang HY, Jiang FJ, Zou S, Chen Y, Zheng XL, Klionsky DJ, Liang Y, Xie Z. Dual roles of Atg8-PE deconjugation by Atg4 in autophagy. _**Autophagy**_. 2012 Jun;8(6):883-92. doi: 10.4161/auto.19652. Epub 2012 Jun 1. PMID: 22652539; PMCID: PMC3427254.
+
 {: reversed="reversed"}
 
 
