@@ -3,9 +3,9 @@
 
 Tao Ni, Ph.D.  
 Assistant Professor  
-School of Biomedical Sciences
-Faculty of Medicine
-University of Hong Kong
+School of Biomedical Sciences 
+Faculty of Medicine 
+University of Hong Kong 
 
 email: taoni@hku.hk   
 
