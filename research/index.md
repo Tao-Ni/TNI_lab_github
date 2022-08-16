@@ -10,10 +10,8 @@ group: research
 # Research in the Ni Lab
 
 ---
-The long-term goals of our research are to understand xxx.  
 
-
-#### This page lists some of the past projects and on-going future projects. Please feel free to contact taoni AT hku.hk for discussion.
+#### This page lists some of the past projects and on-going future projects. Please feel free to contact taoni@hku.hk for discussion.
 
 
 ---
