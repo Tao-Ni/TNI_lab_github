@@ -6,7 +6,7 @@ image: /docs/assets/members/taoni2021.jpeg
 position: Principal Investigator
 #current:
 pronouns: he/him/his
-email: Tao.ni2014 AT gmail.com
+email: taoni@hku.hk
 scholar: n0luQ9EAAAAJ&hl=en&oi=ao
 website:
 UCSF:
