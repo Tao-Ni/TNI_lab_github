@@ -14,7 +14,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 
 1. Xiulian Yu, Tao Ni, George Munson, Peijun Zhang, Robert J. C. Gilbert Structures of perforin-2 in solution and on a membrane reveal mechanisms for pore formation BioRxiv doi: https://doi.org/10.1101/2022.06.14.496043 
 
-1. Williams SI, Yu X, **Ni T\***, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. _**J Mol Biol**_. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
+1. Williams SI\*, Yu X\*, **Ni T**, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. _**J Mol Biol**_. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
 
 1. **Ni T\***, Sun Y\*, Burn W, Al-Hazeem MMJ, Zhu Y, Yu X, Liu LN, Zhang P. Structure and assembly of cargo Rubisco in two native α-carboxysomes. _**Nat Commun**_. 2022 Jul 25;13(1):4299. doi: 10.1038/s41467-022-32004-w. PMID: 35879301; PMCID: PMC9314367.
 
