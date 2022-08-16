@@ -7,11 +7,11 @@ group: join
 # Join the Ni Lab
 
 
-Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!
+Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us! We welcome applicants from all backgrounds, including computer science, biology and material sciences...
+
 Please feel free to contact: taoni@hku.hk
 
-Our lab welcomes applicants all backgrounds, including computer science, biology and material sciences...
-
+HKU PhD Program (https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission#!)
 ---
 
 ## Postdoctoral Fellows
