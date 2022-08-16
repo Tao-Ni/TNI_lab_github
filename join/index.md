@@ -15,11 +15,11 @@ Welcome to our lab! We are looking for highly motivated PhD students and postdoc
 ---
 
 Inquiries about PhD positions should be emailed directly to taoni@hku.hk.
+
 [HKU PhD Program](https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission#!)
 
 [HKUMed Research Postgraduate Projects](https://www.med.hku.hk/en/teaching-and-learning/postgraduate/rpg/projects)
 
-[RGC Fellowships](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/index.html)
 
 ---
 
@@ -28,6 +28,7 @@ Inquiries about PhD positions should be emailed directly to taoni@hku.hk.
 ---
 
 Inquiries about Postdoctoral positions should be emailed directly to taoni@hku.hk.
+[RGC Fellowships](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/index.html)
 
 ---
 ## Other Visitors
