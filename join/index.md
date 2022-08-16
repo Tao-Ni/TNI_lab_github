@@ -8,26 +8,9 @@ group: join
 
 
 Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!
-Please feel free to contact: tao.ni AT strubi.ox.ac.uk or tao.ni2014 AT gmail.com
+Please feel free to contact: taoni@hku.hk
 
-Our lab welcomes applicants all backgrounds...
-
-##### Read more about our lab philosophy
-
-We are always welcome motivated people...
-
----
-## Graduate Students
-
-At HKU, students can apply to 
-
----
-
-##### The Ni Lab participates in the following graduate programs:
-
-* P1
-* P2
-* P3
+Our lab welcomes applicants all backgrounds, including computer science, biology and material sciences...
 
 ---
 
@@ -35,7 +18,7 @@ At HKU, students can apply to
 
 ---
 
-Inquiries about Postdoctoral positions should be emailed directly to xxx.
+Inquiries about Postdoctoral positions should be emailed directly to taoni@hku.hk.
 
 
 ---
