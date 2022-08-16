@@ -3,14 +3,14 @@
 
 Tao Ni, Ph.D.  
 Assistant Professor  
-School of ...  
-Faculty of ...  
-University of ...  
+School of Biomedical Sciences
+Faculty of Medicine
+University of Hong Kong
 
-email: xxx (at) xxx.com   
+email: taoni@hku.hk   
 
-Room xxx   
-Hongkong ...x   
+ 
+
 
 ---
 
