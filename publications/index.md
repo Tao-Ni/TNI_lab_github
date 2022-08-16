@@ -12,9 +12,9 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 
 --
 
-1. Williams SI, Yu X, **Ni T\***, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. J Mol Biol. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
+1. Williams SI, Yu X, **Ni T\***, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. **J Mol Biol**. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
 
-1. **Ni T\***, Sun Y\*, Burn W, Al-Hazeem MMJ, Zhu Y, Yu X, Liu LN, Zhang P. Structure and assembly of cargo Rubisco in two native α-carboxysomes. Nat Commun. 2022 Jul 25;13(1):4299. doi: 10.1038/s41467-022-32004-w. PMID: 35879301; PMCID: PMC9314367.
+1. **Ni T\***, Sun Y\*, Burn W, Al-Hazeem MMJ, Zhu Y, Yu X, Liu LN, Zhang P. Structure and assembly of cargo Rubisco in two native α-carboxysomes. **Nat Commun**. 2022 Jul 25;13(1):4299. doi: 10.1038/s41467-022-32004-w. PMID: 35879301; PMCID: PMC9314367.
 
 1. **Ni T\***, Zhu Y\*, Yang Z\*, Xu C, Chaban Y, Nesterova T, Ning J, Böcking T, Parker MW, Monnie C, Ahn J, Perilla JR, Zhang P. Structure of native HIV-1 cores and their interactions with IP6 and CypA. Sci Adv. 2021 Nov 19;7(47):eabj5715. doi: 10.1126/sciadv.abj5715. Epub 2021 Nov 19. PMID: 34797722; PMCID: PMC8604400.  
 
