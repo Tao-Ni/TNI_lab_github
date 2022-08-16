@@ -11,7 +11,7 @@ Welcome to our lab! We are looking for highly motivated PhD students and postdoc
 
 Please feel free to contact: taoni@hku.hk
 
-HKU PhD Program (https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission#!)
+[HKU PhD Program] (https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission#!)
 ---
 
 ## Postdoctoral Fellows
