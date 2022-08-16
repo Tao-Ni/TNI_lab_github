@@ -13,10 +13,10 @@ group: contact
 <div class="col-md-4 col-ms-4">
 
 #### Lab Area
-  [School of Biomedical Sciences ](Link)<br>
-  Address<br>
-  City<br>
-  tel: 123 456 789
+  [School of Biomedical Sciences ](https://www.sbms.hku.hk/)<br>
+  Address: L1-40, Laboratory Block, 21 Sassoon Road, Pokfulam, Hong Kong <br> 
+  City: Hong Kong SAR<br>
+  tel: +852 39179142
 
 </div>
 
@@ -81,9 +81,7 @@ group: contact
 
 * Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!   
 
-* Please feel free to contact: taoni AT hku.hk
-   
-* Our lab is very very new...   
+* Please feel free to contact: taoni@hku.hk
 
 * A lot of updates will follow....   
 
