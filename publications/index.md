@@ -10,7 +10,7 @@ group: publications
 
 Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Google Scholar](https://scholar.google.co.uk/citations?user=n0luQ9EAAAAJ&hl=en)
 
---
+---
 
 1. Xiulian Yu, Tao Ni, George Munson, Peijun Zhang, Robert J. C. Gilbert Structures of perforin-2 in solution and on a membrane reveal mechanisms for pore formation BioRxiv doi: https://doi.org/10.1101/2022.06.14.496043 
 
@@ -48,7 +48,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 
 1. Yu ZQ, **Ni T**, Hong B, Wang HY, Jiang FJ, Zou S, Chen Y, Zheng XL, Klionsky DJ, Liang Y, Xie Z. Dual roles of Atg8-PE deconjugation by Atg4 in autophagy. _**Autophagy**_. 2012 Jun;8(6):883-92. doi: 10.4161/auto.19652. Epub 2012 Jun 1. PMID: 22652539; PMCID: PMC3427254.
 
-{: reversed="reversed"}
+{: reversed="reversed"} 
 
 
 
