@@ -5,8 +5,7 @@ enddate: []
 image: /docs/assets/members/yuzhang.jpeg
 position: PhD Candidate
 #current:
-pronouns: he/him/his
-email: taoni@hku.hk
+email: elazhang@connect.hku.hk
 website:
 UCSF:
 linkedin:
