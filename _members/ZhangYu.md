@@ -1,0 +1,15 @@
+---
+name: Yu Zhang, Ph.D.
+startdate: [xxx-xxx-xxx]
+enddate: []
+image: /docs/assets/members/yuzhang.jpeg
+position: PhD Candidate
+#current:
+pronouns: he/him/his
+email: taoni@hku.hk
+website:
+UCSF:
+linkedin:
+github:
+description: "Tao is an Assistant Professor in the School of Biomedical Sciences at HKU from 2022. Prior to joining to HKU, he was a postdoctoral research fellow at the University of Oxford and visitor scientist at eBIC working on HIV capsid and carboxysomes using cryoEM and cryoET subtomogram averaging. He completed his Bachelor in Biological Sciences degree in Nankai University (2008-2012) and PhD in structural biology in the University of Oxford (2012-2016)."
+---
