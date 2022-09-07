@@ -2,7 +2,7 @@
 name: Yu Zhang, Ph.D.
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/assets/members/yuzhang.jpeg
+image: /docs/assets/members/YuZhang.jpg
 position: PhD Candidate
 #current:
 email: elazhang@connect.hku.hk
