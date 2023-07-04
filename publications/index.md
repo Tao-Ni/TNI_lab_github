@@ -17,7 +17,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 
 1. Zhu Y, Koo CW, Cassidy CK, Spink MC, **Ni T**, Zanetti-Domingues LC, Bateman B, Martin-Fernandez ML, Shen J, Sheng Y, Song Y, Yang Z, Rosenzweig AC, Zhang P. Structure and activity of particulate methane monooxygenase arrays in methanotrophs. Nat Commun. 2022 Sep 5;13(1):5221. doi: 10.1038/s41467-022-32752-9. PMID: 36064719; PMCID: PMC9445010.
 
-1. Yu X\*, **Ni T**, Munson G, Zhang P, Gilbert RJC. Cryo-EM structures of perforin-2 in isolation and assembled on a membrane suggest a mechanism for pore formation. EMBO J. 2022 Dec 1;41(23):e111857. doi: 10.15252/embj.2022111857. Epub 2022 Oct 17. PMID: 36245269; PMCID: PMC9713709.
+1. Yu X\*, **Ni T***, Munson G, Zhang P, Gilbert RJC. Cryo-EM structures of perforin-2 in isolation and assembled on a membrane suggest a mechanism for pore formation. EMBO J. 2022 Dec 1;41(23):e111857. doi: 10.15252/embj.2022111857. Epub 2022 Oct 17. PMID: 36245269; PMCID: PMC9713709.
 
 1. Williams SI\*, Yu X\*, **Ni T**, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. _**J Mol Biol**_. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
 
