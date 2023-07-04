@@ -13,7 +13,9 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 ---
 1. **Tao Ni***, Luiza Mendonça\*, Yanan Zhu\* et al. ChAdOx1 COVID vaccines express RBD open prefusion SARS-CoV-2 spikes on the cell surface. bioRxiv  doi: https://doi.org/10.1101/2023.05.22.541685
 
-1. **Tao Ni***, Qiuyao Jiang\*, Pei Cing Ng, Juan Shen, Hao Dou, Yanan Zhu, Julika Radecke, Gregory F. Dykes, Fang Huang, Lu-Ning Liu, Peijun Zhang. Intrinsically disordered CsoS2 acts as a general molecular thread for α-carboxysome shell assembly. bioRxiv 2023.06.24.546370; doi: https://doi.org/10.1101/2023.06.24.546370 
+1. **Tao Ni***, Qiuyao Jiang\*, Pei Cing Ng, Juan Shen, Hao Dou, Yanan Zhu, Julika Radecke, Gregory F. Dykes, Fang Huang, Lu-Ning Liu, Peijun Zhang. Intrinsically disordered CsoS2 acts as a general molecular thread for α-carboxysome shell assembly. bioRxiv 2023.06.24.546370; doi: https://doi.org/10.1101/2023.06.24.546370
+
+1. Zhu Y, Koo CW, Cassidy CK, Spink MC, **Ni T**, Zanetti-Domingues LC, Bateman B, Martin-Fernandez ML, Shen J, Sheng Y, Song Y, Yang Z, Rosenzweig AC, Zhang P. Structure and activity of particulate methane monooxygenase arrays in methanotrophs. Nat Commun. 2022 Sep 5;13(1):5221. doi: 10.1038/s41467-022-32752-9. PMID: 36064719; PMCID: PMC9445010.
 
 1. Yu X\*, **Ni T**, Munson G, Zhang P, Gilbert RJC. Cryo-EM structures of perforin-2 in isolation and assembled on a membrane suggest a mechanism for pore formation. EMBO J. 2022 Dec 1;41(23):e111857. doi: 10.15252/embj.2022111857. Epub 2022 Oct 17. PMID: 36245269; PMCID: PMC9713709.
 
