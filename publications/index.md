@@ -11,8 +11,11 @@ group: publications
 Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Google Scholar](https://scholar.google.co.uk/citations?user=n0luQ9EAAAAJ&hl=en)
 
 ---
+1. **Tao Ni***, Luiza Mendonça\*, Yanan Zhu\* et al. ChAdOx1 COVID vaccines express RBD open prefusion SARS-CoV-2 spikes on the cell surface. bioRxiv  doi: https://doi.org/10.1101/2023.05.22.541685
 
-1. Xiulian Yu, Tao Ni, George Munson, Peijun Zhang, Robert J. C. Gilbert Structures of perforin-2 in solution and on a membrane reveal mechanisms for pore formation BioRxiv doi: https://doi.org/10.1101/2022.06.14.496043 
+1. **Tao Ni***, Qiuyao Jiang\*, Pei Cing Ng, Juan Shen, Hao Dou, Yanan Zhu, Julika Radecke, Gregory F. Dykes, Fang Huang, Lu-Ning Liu, Peijun Zhang. Intrinsically disordered CsoS2 acts as a general molecular thread for α-carboxysome shell assembly. bioRxiv 2023.06.24.546370; doi: https://doi.org/10.1101/2023.06.24.546370 
+
+1. Yu X\*, **Ni T**, Munson G, Zhang P, Gilbert RJC. Cryo-EM structures of perforin-2 in isolation and assembled on a membrane suggest a mechanism for pore formation. EMBO J. 2022 Dec 1;41(23):e111857. doi: 10.15252/embj.2022111857. Epub 2022 Oct 17. PMID: 36245269; PMCID: PMC9713709.
 
 1. Williams SI\*, Yu X\*, **Ni T**, Gilbert RJC, Stansfeld PJ. Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2. _**J Mol Biol**_. 2022 Jul 15;434(13):167642. doi: 10.1016/j.jmb.2022.167642. Epub 2022 May 19. PMID: 35598848.
 
