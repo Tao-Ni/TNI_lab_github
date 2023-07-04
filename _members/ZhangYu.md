@@ -1,5 +1,5 @@
 ---
-name: Yu Zhang, Ph.D.
+name: Yu Zhang, Ms
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/assets/members/YuZhang.jpg
