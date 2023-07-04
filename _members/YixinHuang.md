@@ -1,5 +1,5 @@
 ---
-name: Yixin Huang, Ph.D.
+name: Yixin Huang, Ms
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/assets/members/yixin.jpg
